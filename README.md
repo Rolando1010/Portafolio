@@ -7,5 +7,5 @@
 
 ```bash
 npm run install
-pm run dev
+npm run dev
 ```
