@@ -1,0 +1,128 @@
+body{
+    background-color: #111821;
+}
+
+*::-webkit-scrollbar{
+    background: #1e2a3a;
+    width: 6px;
+    border-radius: .5rem;
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: rgba(255,255,255,0.05);
+}
+
+.contenidoPortafolio{
+    margin-left: 280px;
+    padding: 20px 30px;
+}
+
+.titulo{
+    color: #fff;
+    font-size: 22px;
+    font-weight: bold;
+    border-left: 6px solid #54B689;
+    padding-left: 10px;
+}
+
+.descripcionSobreMi{
+    color: #ffffffb3;
+    font-size: 16px;
+}
+
+.contenedorHabilidades{
+    text-align: center;
+}
+
+.contenedorHabilidad{
+    text-align: center;
+    display: inline-block;
+    margin: 0 10px 40px 10px;
+}
+
+.imagenHabilidad{
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+}
+
+.nombreHabilidad{
+    color: #fff;
+    font-weight: bold;
+    font-size: 16px;
+    margin: 0;
+}
+
+.proyecto{
+    padding: 20px;
+    background-color: #151e29;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.tituloProyecto{
+    margin: 0;
+    color: #fff;
+    border-bottom: 1px solid #fff;
+    display: inline-block;
+    font-size: 20px;
+}
+
+.descripcionProyecto{
+    color: #ffffffb3;
+    padding: 20px;
+}
+
+.tituloUsoTecnologias{
+    color: #54B689;
+}
+
+.contenedorUsosTecnologias{
+    padding: 0 15px;
+}
+
+.usoTecnologias{
+    color: #fff;
+}
+
+.tecnologias{
+    display: inline-block;
+    color: #ffffffb3;
+    font-size: 15px;
+}
+
+.w100{
+    width: 100%;
+}
+
+.contenedorBotonesURLProyecto{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.botonURLProyecto{
+    background-color: #54B689;
+    margin: 10px 20px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: #fff;
+    display: inline-block;
+}
+
+.botonURLProyecto:hover{
+    background-color: #398562;
+}
+
+@media (max-width: 800px){
+    .contenidoPortafolio{
+        padding-top: 70px;
+        margin-left: 0;
+    }
+}
+
+.experiencia{
+    font-size: 16px;
+    padding: 10px;
+    color: #ffffffb3;
+}
