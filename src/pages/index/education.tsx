@@ -105,6 +105,7 @@ const EducationItem = ({ image, institution, career, period, children }: {
             section {
                 display: flex;
                 gap: 10px;
+                align-items: center;
             }
 
             img {
