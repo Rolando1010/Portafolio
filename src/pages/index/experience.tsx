@@ -17,7 +17,7 @@ const TimeLine = () => {
     const translation = useTranslation();
 
     return (
-        <VerticalTimeline>
+        <VerticalTimeline animate={false}>
             <TimeLineElement
                 companyName="Namu Travel Group"
                 companyLogo="/namu-logo.jfif"
@@ -61,6 +61,7 @@ const TimeLineElement = ({ companyName, companyLogo, jobName, functions, timeInt
             contentArrowStyle={{borderRight: "7px solid var(--background-2)"}}
             date={timeInterval}
             iconStyle={{background: "var(--primary-1)"}}
+
         >
             <header>
                 <img alt={`${companyName} logo`} src={companyLogo}/>
