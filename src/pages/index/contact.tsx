@@ -12,7 +12,7 @@ const Contact = () => {
                 image="/linkedin.svg"
             />
             <ContactItem
-                url="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=rmcdesarrollo@gmail.com"
+                url="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=rolandomorac@gmail.com"
                 name="Email"
                 image="/email.svg"
             />

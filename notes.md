@@ -5,6 +5,7 @@
 [i18n 2](https://github.dev/midudev/aprendiendo-react)
 [i18n 3](https://github.com/midudev/vota.dev)
 [Currículum](https://delacruzdev.notion.site/Apply-to-tech-companies-with-this-CV-template-fd977e7e715d4445a6ba1878a500e327)
+[Video Currículum](https://www.youtube.com/watch?v=xYi8qzLsS24&t=2763s)
 
 ## Todo
 * Mejorar textos

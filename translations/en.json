@@ -15,19 +15,19 @@
         "Analysis, debugging and development with legacy code",
         "Implementation of agile methodologies like SCRUM and JIRA"
     ],
-    "NAMU_PERIOD": "2022 August - 2022 December",
+    "NAMU_PERIOD": "August 2022 - December 2022",
     "FREELANCE_JOB": "Web application development",
     "FREELANCE_FUNCTIONS": [
         "Web application developed in Django and React, with different users roles and access levels, statistical graphics generation, PDF reports, file storage in cloud, real time notifications, automated data backup, photographs and videos capturing, work cronograms, autentication and data extraction from excel.",
         "API REST creation in Django using the integrated ORM, together with a MYSQL remote database access and using an AWS messaging system."
     ],
-    "FREELANCE_PERIOD": "2022 January - 2022 May",
+    "FREELANCE_PERIOD": "January 2022 - May 2022",
     "DINAMICA_JOB": "University intern",
     "DINAMICA_FUNCTIONS": [
         "User interface changes in web application oriented to project management.",
         "Investigation and proof of concept of many libraries of statistical graphics presentation."
     ],
-    "DINAMICA_PERIOD": "2020 September - 2020 December",
+    "DINAMICA_PERIOD": "September 2020 - December 2020",
     "KNOWLEDGE": "Knowledge",
     "MORE_USED": "More used",
     "DATABASES": "Databases",
