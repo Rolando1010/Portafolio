@@ -8,8 +8,6 @@
 [Video Currículum](https://www.youtube.com/watch?v=xYi8qzLsS24&t=2763s)
 
 ## Todo
-* Mejorar textos
-* Ver si hay errores ortográficos
 * Meter idiomas
 * README
-* Curriculum
+* Cambiar las tabs de conocimiento para que parezcan más tabs

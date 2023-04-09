@@ -1,10 +1,10 @@
 {
     "SOFTWARE_DEVELOPER": "Software developer",
     "EDUCATION": "Education",
-    "TEC": "Tecnólogico of Costa Rica",
+    "TEC": "Tecnlógico of Costa Rica",
     "COMPUTER_ENGINEERING": "Computing Engineering",
     "TEC_PERIOD": "2021 - Now",
-    "AWS_CERTIFICATION_PERIOD": "2023 January",
+    "AWS_CERTIFICATION_PERIOD": "January 2023",
     "WATCH_AWS_CREDENTIAL": "Watch credential",
     "CUC": "Cartago University College(CUC)",
     "TI_DIPLOMATE": "Information technologies diplomate",
@@ -18,14 +18,14 @@
     "NAMU_PERIOD": "August 2022 - December 2022",
     "FREELANCE_JOB": "Web application development",
     "FREELANCE_FUNCTIONS": [
-        "Web application developed in Django and React, with different users roles and access levels, statistical graphics generation, PDF reports, file storage in cloud, real time notifications, automated data backup, photographs and videos capturing, work cronograms, autentication and data extraction from excel.",
+        "Web application developed in Django and React, with different user roles and access levels, statistical graphics generation, PDF reports, file storage in cloud, real time notifications, automated data backup, photographs and videos capturing, work chronograms, authentication and data extraction from excel.",
         "API REST creation in Django using the integrated ORM, together with a MYSQL remote database access and using an AWS messaging system."
     ],
     "FREELANCE_PERIOD": "January 2022 - May 2022",
     "DINAMICA_JOB": "University intern",
     "DINAMICA_FUNCTIONS": [
-        "User interface changes in web application oriented to project management.",
-        "Investigation and proof of concept of many libraries of statistical graphics presentation."
+        "User experience improvements in the UI of a web application oriented to project management.",
+        "Contribution of various proposals for reporting with statistical graphics, along with a proof of concept that implemented such libraries."
     ],
     "DINAMICA_PERIOD": "September 2020 - December 2020",
     "KNOWLEDGE": "Knowledge",
@@ -34,7 +34,7 @@
     "PROGRAMMING_LANGUAGES": "Programming languages",
     "TOOLS": "Tools",
     "PROJECTS": "Projects",
-    "ABOUT_ME": "Software developer with information technologies diplomate, certified as Cloud Practitioner by AWS and Computer engineering student at Tecnológico of Costa Rica. Laboral experience in UI development, Freelance and IT Support.",
+    "ABOUT_ME": "Software developer with information technologies diplomate, certified as Cloud Practitioner by AWS and Advanced computer engineering student at Tecnológico of Costa Rica. Laboral experience in UI development, Freelance and IT Support.",
     "WATCH_CURRICULUM": "Curriculum",
     "WEBSITE": "Website",
     "MOBILE_APP": "Mobile app",
